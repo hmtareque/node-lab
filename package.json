@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hmtareque/node-lab/issues"
   },
-  "homepage": "https://github.com/hmtareque/node-lab#readme"
+  "homepage": "https://github.com/hmtareque/node-lab#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
 }
