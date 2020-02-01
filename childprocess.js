@@ -7,6 +7,5 @@ cp.exec('ls', (error, data) => {
     if(error){
         throw error;
     }
-
     console.log(data);
 });
